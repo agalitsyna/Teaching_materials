@@ -1,3 +1,7 @@
-Ссылка на форму с обратной связью: 
+### Материалы для лекций "Пространственная организация хроматина", ФББ МГУ, 2020
 
-https://docs.google.com/forms/d/e/1FAIpQLSfAO-RNY-sxNH3bzzIPRZW_ZyYDz7ZcqKG3VY1QtcEZNmQ9rw/viewform?usp=pp_url
+Презентация лекции приведена в репозитории. 
+
+Видеозаписи будут выложены позже и добавлены сюда.
+
+[Ссылка на форму с обратной связью](https://docs.google.com/forms/d/e/1FAIpQLSfAO-RNY-sxNH3bzzIPRZW_ZyYDz7ZcqKG3VY1QtcEZNmQ9rw/viewform?usp=pp_url)
